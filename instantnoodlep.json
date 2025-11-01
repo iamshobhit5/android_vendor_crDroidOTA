@@ -1,0 +1,27 @@
+{
+    "response": [
+        {
+            "maintainer": "Shobhit Singh (iamshobhit5)",
+            "oem": "OnePlus",
+            "device": "OnePlus 8 pro",
+            "filename": "crDroidAndroid-16.0-20251101-instantnoodlep-v12.2.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/instantnoodlep/12.x/crDroidAndroid-16.0-20251101-instantnoodlep-v12.2.zip/download",
+            "timestamp": 1762002563,
+            "md5": "b8550ae896c4805a97712a36d75da3ff",
+            "sha256": "5b1ed2649bac57653c923eee9575ee97def24930fc810d05860b73f8678dec8e",
+            "size": 2026893006,
+            "version": "12.2",
+            "buildtype": "Monthly",
+            "forum": "https://xdaforums.com/t/rom-15-official-8-pro-ooscam-dolby-crdroid-v11-2-05-03-2025.4723360/post-90351043",
+            "gapps": "https://nikgapps.com/crdroid-official",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "https://sourceforge.net/projects/crdroid/files/instantnoodlep/12.x/recovery/",
+            "paypal": "https://paypal.me/iamshobhit5?country.x=NL&locale.x=en_US",
+            "telegram": "https://t.me/crdroidop8",
+            "dt": "https://github.com/crdroidandroid/android_device_oneplus_instantnoodlep/tree/16.0",
+            "common-dt": "https://github.com/crdroidandroid/android_device_oneplus_sm8250-common/tree/16.0-instantnoodle",
+            "kernel": "https://github.com/crdroidandroid/android_kernel_oneplus_sm8250/tree/16.0-instantnoodle"
+        ]
+    }
